@@ -1,0 +1,16 @@
+C:\Users\Kuchu\source\repos\PeerMatrix\PeerMatrix\bin\Debug\netcoreapp3.1\PeerMatrix.exe
+C:\Users\Kuchu\source\repos\PeerMatrix\PeerMatrix\bin\Debug\netcoreapp3.1\PeerMatrix.deps.json
+C:\Users\Kuchu\source\repos\PeerMatrix\PeerMatrix\bin\Debug\netcoreapp3.1\PeerMatrix.runtimeconfig.json
+C:\Users\Kuchu\source\repos\PeerMatrix\PeerMatrix\bin\Debug\netcoreapp3.1\PeerMatrix.runtimeconfig.dev.json
+C:\Users\Kuchu\source\repos\PeerMatrix\PeerMatrix\bin\Debug\netcoreapp3.1\PeerMatrix.dll
+C:\Users\Kuchu\source\repos\PeerMatrix\PeerMatrix\bin\Debug\netcoreapp3.1\PeerMatrix.pdb
+C:\Users\Kuchu\source\repos\PeerMatrix\PeerMatrix\bin\Debug\netcoreapp3.1\MatrixLibrary.dll
+C:\Users\Kuchu\source\repos\PeerMatrix\PeerMatrix\bin\Debug\netcoreapp3.1\MatrixLibrary.pdb
+C:\Users\Kuchu\source\repos\PeerMatrix\PeerMatrix\obj\Debug\netcoreapp3.1\PeerMatrix.csprojAssemblyReference.cache
+C:\Users\Kuchu\source\repos\PeerMatrix\PeerMatrix\obj\Debug\netcoreapp3.1\PeerMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Kuchu\source\repos\PeerMatrix\PeerMatrix\obj\Debug\netcoreapp3.1\PeerMatrix.AssemblyInfoInputs.cache
+C:\Users\Kuchu\source\repos\PeerMatrix\PeerMatrix\obj\Debug\netcoreapp3.1\PeerMatrix.AssemblyInfo.cs
+C:\Users\Kuchu\source\repos\PeerMatrix\PeerMatrix\obj\Debug\netcoreapp3.1\PeerMatrix.csproj.CopyComplete
+C:\Users\Kuchu\source\repos\PeerMatrix\PeerMatrix\obj\Debug\netcoreapp3.1\PeerMatrix.dll
+C:\Users\Kuchu\source\repos\PeerMatrix\PeerMatrix\obj\Debug\netcoreapp3.1\PeerMatrix.pdb
+C:\Users\Kuchu\source\repos\PeerMatrix\PeerMatrix\obj\Debug\netcoreapp3.1\PeerMatrix.genruntimeconfig.cache
